@@ -30,6 +30,12 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 | Cookie Storing | &#10004; | Storing the userTokens |
 | Encryption | &#10004; | Password Encryption |
 
+
+##ScreenShorts
+![Screenshot 2024-02-06 153120](https://github.com/MEARZIM/CRUD-LOGIN-SYSTEM/assets/89741434/2a1966a8-af62-42e5-9aba-e4c9e59ff6ae)
+![Screenshot 2024-02-06 153146](https://github.com/MEARZIM/CRUD-LOGIN-SYSTEM/assets/89741434/c2442880-71d4-42fa-a61d-c2f9ce35fa8a)
+
+
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
